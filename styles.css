@@ -10,9 +10,12 @@ body {
 /* Establishing block colors and flex*/
 
 .header,
-.footer {background-color: #1F2937; flex:0}
-.blue-block {background-color:#1F2937;flex:1}
+.footer {background-color: #1F2937; flex:0; color:#F9FAF8}
+.blue-block {background-color:#1F2937;flex:1; color:#F9FAF8}
 .info-block,
-.cta-block {background-color:white;flex:1}
+.cta-block {background-color:white;flex:1; color:#1F2937}
 .quote-block {background-color:#EFE7EB;flex:1}
 
+/* control width of contents */
+
+.content-container {width:80vw}
