@@ -5,6 +5,7 @@ body {
     width:100vw;
     margin:0;
     padding:0;
+    font-family:sans-serif;
 }
 
 /* Establishing block colors and flex*/
@@ -18,4 +19,11 @@ body {
 
 /* control width of contents */
 
-.content-container {width:80vw}
+.content-container {width:80vw; margin:auto;}
+
+/* header formatting */
+
+.header-content {display:flex; padding-top:10px; padding-bottom:10px; justify-content:space-between; align-items:center}
+.header-left {font-size:24px; font-weight:bolder; flex:1}
+.header-right {display:flex; justify-content:right; gap:15px; flex:1; height:fit-content}
+.header-right a {text-decoration:none;color:#F9FAF8}
