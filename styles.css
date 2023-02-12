@@ -5,7 +5,7 @@ body {
     width:100vw;
     margin:0;
     padding:0;
-    font-family:sans-serif;
+    font-family: Roboto, sans-serif;
 }
 
 /* Establishing block colors and flex*/
@@ -47,13 +47,13 @@ button:hover {cursor:pointer; background-color:#2561c0; transition:.5s}
 
 .info-header {margin-top:50px; margin-bottom:30px; font-size:36px; font-weight:bolder; color:#1F2937; display:flex; align-content:center; justify-content:center;}
 .info-group {display:flex; width:80%; justify-content:space-between; gap:40px; margin:auto; margin-bottom:100px;}
-.info-section {display:flex; flex-direction:column; justify-content:flex-start; flex:1; text-align:center;}
+.info-section {display:flex; flex-direction:column; justify-content:flex-start; flex:1; text-align:center; color:#1F2937;}
 .info-img {width:100%; margin-bottom:12px; border-radius:8px;}
 
 /* Quote block formatting */
 
-.quote-container {display:flex; flex-direction:column; width:75%; margin:auto; margin-top:95px; margin-bottom:80px;}
-.quote-text {font-size:36px; font-weight:lighter; font-style:italic; text-align:left;}
+.quote-container {display:flex; flex-direction:column; width:75%; margin:auto; margin-top:120px; margin-bottom:100px;}
+.quote-text {font-size:36px; font-style:italic; font-weight: lighter; text-align:left;}
 .quote-author {font-size:18px; font-weight:bolder; text-align:right; padding-top:10px;}
 
 /* CTA block formatting */
