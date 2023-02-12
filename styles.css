@@ -56,8 +56,8 @@ button a {text-decoration: none; color:#F9FAF8; font-weight:bold}
 
 /* CTA block formatting */
 
-.cta-box {background-color:#3882F6; border-radius: 8px; display:flex; justify-content:space-between; align-content:center;}
+.cta-box {background-color:#3882F6; border-radius: 8px; display:flex; justify-content:space-between; align-content:center; margin-top:80px; margin-bottom:80px; padding:60px;}
 .cta-left {display:block; text-align:left; color: #f9faf8;}
 .cta-header {font-size:22px; font-weight:bold;}
 .cta-text {font-size:18px;}
-.cta-button {border:1px solid #F9FAF8}
+.cta-button {border:1px solid #F9FAF8; height:fit-content;}
