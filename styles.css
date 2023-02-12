@@ -39,8 +39,8 @@ body {
 
 /* button formatting */
 
-button {padding:10px; border-radius:8px; background-color:#3882F6; width:fit-content;border:none;}
-a button {text-decoration: none; color:#F9FAF8; font-weight:bold}
+button {padding:10px 20px 10px 20px; border-radius:8px; background-color:#3882F6; width:fit-content;border:none;}
+a button {text-decoration: none; color:#F9FAF8; font-weight:bold; font-size:16px}
 button:hover {cursor:pointer; background-color:#2561c0; transition:.5s}
 
 /* Info block formatting */
