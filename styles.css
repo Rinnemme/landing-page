@@ -11,7 +11,7 @@ body {
 /* Establishing block colors and flex*/
 
 .header,
-.footer {background-color: #1F2937; flex:0; color:#F9FAF8}
+.footer {background-color: #1F2937; flex:0; color:#F9FAF8; align-items:center; justify-content:center; padding:20px;}
 .blue-block {background-color:#1F2937;flex:1; color:#F9FAF8}
 .info-block,
 .cta-block {background-color:white;flex:1; color:#F9FAF8}
