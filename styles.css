@@ -40,3 +40,10 @@ body {
 
 button {padding:10px; border-radius:5px; background-color:#3882F6; width:fit-content;border:none;}
 button a {text-decoration: none; color:#F9FAF8; font-weight:bold}
+
+/* Info block formatting */
+
+.info-header {margin-top:20px; margin-bottom:20px; font-size:36px; font-weight:bolder; color:#1F2937; display:flex; align-content:center; justify-content:center;}
+.info-group {display:flex; width:80%; justify-content:space-between; gap:40px; margin:auto; margin-bottom:50px;}
+.info-section {display:flex; flex-direction:column; justify-content:flex-start; flex:1; text-align:center;}
+.info-img {width:100%; padding-bottom:12px; border-radius:5px;}
