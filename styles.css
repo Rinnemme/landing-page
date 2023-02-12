@@ -17,7 +17,7 @@ body {
 .info-block,
 .cta-block {background-color:white;flex:1; color:#F9FAF8}
 .quote-block {background-color:#E5E7EB;flex:1; color:#1F2937}
-.normal-text {font-size:18px}
+.normal-text {font-size:18px; font-weight: normal;}
 
 /* control width of contents */
 
