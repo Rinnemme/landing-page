@@ -45,19 +45,19 @@ button a {text-decoration: none; color:#F9FAF8; font-weight:bold}
 /* Info block formatting */
 
 .info-header {margin-top:50px; margin-bottom:30px; font-size:36px; font-weight:bolder; color:#1F2937; display:flex; align-content:center; justify-content:center;}
-.info-group {display:flex; width:80%; justify-content:space-between; gap:40px; margin:auto; margin-bottom:90px;}
+.info-group {display:flex; width:80%; justify-content:space-between; gap:40px; margin:auto; margin-bottom:100px;}
 .info-section {display:flex; flex-direction:column; justify-content:flex-start; flex:1; text-align:center;}
 .info-img {width:100%; margin-bottom:12px; border-radius:8px;}
 
 /* Quote block formatting */
 
 .quote-container {display:flex; flex-direction:column; width:75%; margin:auto; margin-top:95px; margin-bottom:80px;}
-.quote-text {font-size:36px; font-style: light italic; text-align:left;}
+.quote-text {font-size:36px; font-weight:lighter; font-style:italic; text-align:left;}
 .quote-author {font-size:18px; font-weight:bolder; text-align:right; padding-top:10px;}
 
 /* CTA block formatting */
 
-.cta-box {background-color:#3882F6; border-radius: 8px; display:flex; justify-content:space-between; align-content:center; margin-top:80px; margin-bottom:80px; padding:60px; gap:20px;}
+.cta-box {background-color:#3882F6; border-radius: 8px; display:flex; justify-content:space-between; align-content:center; margin-top:80px; margin-bottom:80px; padding:45px 110px 45px 110px; gap:20px;}
 .cta-left {display:block; text-align:left; color: #f9faf8;}
 .cta-header {font-size:22px; font-weight:bold;}
 .cta-text {font-size:18px;}
