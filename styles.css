@@ -35,7 +35,7 @@ body {
 .top-block {display:flex;justify-content:center;align-items:center;padding-top:80px;padding-bottom:100px; gap: 20px;}
 .top-block-left {display:flex; flex-direction:column;text-align:left;flex:1;gap:15px;}
 .top-block-right {display:flex;flex:1;width:100%}
-.top-block-header {font-size:48px;font-weight:bolder}
+.top-block-header {font-size:48px;font-weight:bolder;margin-bottom:-10px;}
 
 /* button formatting */
 
