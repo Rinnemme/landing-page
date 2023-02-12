@@ -50,7 +50,7 @@ button a {text-decoration: none; color:#F9FAF8; font-weight:bold}
 
 /* Quote block formatting */
 
-.quote-container {display:flex; flex-direction:column; width:70%; margin:auto; margin-top:75px; margin-bottom:60px;}
+.quote-container {display:flex; flex-direction:column; width:75%; margin:auto; margin-top:75px; margin-bottom:60px;}
 .quote-text {font-size:36px; font-style: light italic; text-align:left;}
 .quote-author {font-size:18px; font-weight:bolder; text-align:right; padding-top:10px;}
 
